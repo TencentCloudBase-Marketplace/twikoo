@@ -96,7 +96,7 @@ A simple, safe, free comment system based on Tencent CloudBase (tcb).
 
 ## 快速上手 | Quick Start
 
-[![部署到云开发](https://main.qcloudimg.com/raw/67f5a389f1ac6f3b4d04c7256438e44f.svg)](https://console.cloud.tencent.com/tcb/env/index?action=CreateAndDeployCloudBaseProject&appUrl=https%3A%2F%2Fgithub.com%2Fimaegoo%2Ftwikoo&branch=dev)
+[![部署到云开发](https://main.qcloudimg.com/raw/67f5a389f1ac6f3b4d04c7256438e44f.svg)](https://console.cloud.tencent.com/tcb/env/index?action=CreateAndDeployCloudBaseProject&appUrl=https%3A%2F%2Fgithub.com%2FTencentCloudBase-Marketplace%2Ftwikoo&branch=dev)
 
 有关详细教程，请查看[快速上手](https://twikoo.js.org/quick-start.html)
 
